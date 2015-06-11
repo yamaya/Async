@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 bigevilrobot. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for Async.
 FOUNDATION_EXPORT double AsyncVersionNumber;
